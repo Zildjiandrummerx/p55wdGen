@@ -48,8 +48,11 @@ Enter the desired password length (12-50):
 
 RAW Password: :p.#^<sZ<&RH}3Mz4/u_Q(@J.n2S1z
 SHA-256 Encrypted: eaf8c5f2aa35cf38483fcccb547f857338d1c1ea9365f76b9d7c2412654a74cf
+
 Salt: I34EuGk6BOXvSTZX
 Pass + Salt: 134a3dbf6cf14d7bd6030b4fe572333872069601600c7df0cbd3c151c30e0418
+
 Pepper: 5iPYjNutX6xsogcckqxOxKfVkOLpzoL8BjZulFHy2hzBwJqTJq
 Pass + Salt + Pepper: 0b79cb5303c7b7e7612c7f1c2a04ed335fc70ab0b51f61cdceb31fd06105001a
+
 Generated on: 2024/06/24 - 18:10:39
